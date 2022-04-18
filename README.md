@@ -1,10 +1,10 @@
 # Kerberos.io running on balena
 
-<img width="1554" alt="Kerberos running on balena" src="https://user-images.githubusercontent.com/173156/163893446-41a67e5e-5bd8-40a5-b1c7-05c3db4ff563.png">
-
 In this project, we will deploy Kerberos on balena to set up a security camera system. Since it uses open source software and balena, it’s much more private than other cloud-focused solutions, too. None of your videos are being stored anywhere other than your edge device.
 
 [![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/mpous/kerberos-balena)
+
+<img width="1554" alt="Kerberos running on balena" src="https://user-images.githubusercontent.com/173156/163893446-41a67e5e-5bd8-40a5-b1c7-05c3db4ff563.png">
 
 ## Hardware required
 
